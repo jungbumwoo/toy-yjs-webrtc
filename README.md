@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 실시간 동기화 메모
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
